@@ -39,6 +39,46 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Another S",
+      "restaurant": "A different place",
+      "image": "./assets/ramen/shoyu.jpg",
+      "rating": "8",
+      "comment": "This one is better",
+      "id": 6
+    },
+    {
+      "name": "Shoyu3",
+      "restaurant": "new place",
+      "image": "./assets/ramen/shoyu.jpg",
+      "rating": "9",
+      "comment": "The best",
+      "id": 7
+    },
+    {
+      "name": "Egg",
+      "restaurant": "mine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fried_Egg_2.jpg",
+      "rating": "3",
+      "comment": "Just an egg",
+      "id": 8
+    },
+    {
+      "name": "broth",
+      "restaurant": "idk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Brodo_di_testina_in_cottura.jpg",
+      "rating": "1",
+      "comment": "needs something ",
+      "id": 9
+    },
+    {
+      "name": "Daikon",
+      "restaurant": "random street",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Radish-RA.jpg",
+      "rating": "1",
+      "comment": "Terrible, these are just radishes",
+      "id": 10
     }
   ]
 }
